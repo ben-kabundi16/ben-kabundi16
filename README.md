@@ -1,6 +1,8 @@
 ## Hi there 😁
 
 **Hello, I'm Ben, from Holy Trinity. I've currently completed my digital technology course in ICD2O.**
+
+
 **Programming: HTML/CSS and Javascript.
 Learning Python**
 
