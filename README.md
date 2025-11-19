@@ -1,10 +1,42 @@
-## Hi there, i'm Ben Kabundi from ICD2O 😁
+## Hi there 😁
 
-<!--
-Here is some information about me:
-- 🛠️ I’m currently working on HTML/CSS/Javascript
-- 📈 I’m currently learning Python
-- 🧑‍🤝‍🧑 I’m looking to collaborate on debugging 
-- 🖥️✅ I’m looking for help with debugging python
--  ❓ Email: ben.kabundi@stu.ocsb.ca
--->
+[Ben Kabundi]
+**[Hello, I'm Ben, from Holy Trinity. I've currently completed my digital technology course in ICD2O.]**
+
+[what skills you used]
+
+[link to GitHub repository or Google Colab doc]
+
+[Name]
+[short description]
+
+[what skills you used]
+
+[link to GitHub repository or Google Colab doc]
+
+[Name]
+[short description]
+
+[what skills you used]
+
+[link to GitHub repository or Google Colab doc]
+
+[Name]
+[short description]
+
+[what skills you used]
+
+[link to GitHub repository or Google Colab doc]
+
+[Name]
+[short description]
+
+[what skills you used]
+
+[link to GitHub repository or Google Colab doc]
+
+![OneDrive](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4)
+
+[what skills you used]
+
+[link to GitHub repository or Google Colab doc]
